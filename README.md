@@ -2,7 +2,7 @@
 
 Software Engineer mit Leidenschaft für Daten, APIs und sauberen Code.
 
-[LinkedIn](https://linkedin.com/in/julianstreitberger) · [julianstreitberger.dev](https://julianstreitberger.dev)
+[LinkedIn](https://linkedin.com/in/julianstreitberger) · [streitberger.at](https://streitberger.at)
 
 **Languages & Tools**
 
