@@ -1,9 +1,10 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=435&lines=Julian+Streitberger;Turning+coffee+into+structured+data;Python+%26+TypeScript+Engineer)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=600&lines=Julian+Streitberger;Turning+coffee+into+structured+data)
 
-Promovierter Mathematiker. Data Scientist bei Red Bull & der FMA. Selbstständig in Wien.\
+Dr. in Mathematik. Data Scientist bei der FMA & Red Bull. Selbstständig in Wien.\
+Tech adressatengerecht erklären liegt mir am Herzen.\
 Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es meistens nicht tun.
 
-[LinkedIn](https://linkedin.com/in/julianstreitberger) · [streitberger.at](https://streitberger.at)
+[LinkedIn](https://linkedin.com/in/julianstreitberger) · [streitberger.at](https://streitberger.at) · [Intro to Python](https://github.com/jstreitberger03/introduction-to-python) · [Call buchen](https://streitberger.at/kontakt)
 
 **Languages & Tools**
 
@@ -15,6 +16,9 @@ Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es mei
 ![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+![](https://img.shields.io/badge/-Coolify-000?style=flat&logo=coolify)
+![](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
 ![](https://img.shields.io/badge/-AI%2FML-000?style=flat&logo=openai)
 ![](https://img.shields.io/badge/-MCP-000?style=flat&logo=protocolsdotio)
 ![](https://img.shields.io/badge/-LangChain-000?style=flat&logo=langchain)
