@@ -18,7 +18,7 @@
 ---
 
 | Languages | Frameworks | Infra | Databases | AI & ML |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react) | ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql) | ![AI/ML](https://img.shields.io/badge/AI%2FML-000?style=flat-square&logo=openai) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) | ![Coolify](https://img.shields.io/badge/Coolify-000?style=flat-square&logo=coolify) | ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql) | ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript) | ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=flat-square&logo=mariadb) | ![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain) |
@@ -26,8 +26,8 @@
 | ![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=c%2B%2B) | ![pytest](https://img.shields.io/badge/pytest-000?style=flat-square&logo=pytest) | ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git) | | ![RAG](https://img.shields.io/badge/RAG-000?style=flat-square) |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jstreitberger03&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=000000&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstreitberger03&layout=compact&hide_border=true&bg_color=00000000&text_color=000000&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jstreitberger03&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jstreitberger03&theme=transparent" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
