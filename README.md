@@ -1,5 +1,3 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=600&lines=Julian+Streitberger;Turning+coffee+into+structured+data)
-
 Dr. in Mathematik. Data Scientist bei der FMA & Red Bull. Selbstständig in Wien.\
 Tech adressatengerecht erklären liegt mir am Herzen.\
 Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es meistens nicht tun.
