@@ -14,6 +14,10 @@ Turning coffee into structured data and automations.
 ![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![](https://img.shields.io/badge/-AI%2FML-000?style=flat&logo=openai)
+![](https://img.shields.io/badge/-MCP-000?style=flat&logo=protocolsdotio)
+![](https://img.shields.io/badge/-LangChain-000?style=flat&logo=langchain)
+![](https://img.shields.io/badge/-RAG-000?style=flat&logo=vector)
 
 ![](https://github-readme-stats.vercel.app/api?username=jstreitberger03&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=000&icon_color=000)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jstreitberger03&layout=compact&hide_border=true&bg_color=00000000&text_color=000)
