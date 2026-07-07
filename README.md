@@ -2,7 +2,7 @@
 
 Dr. in Mathematik. Data Scientist bei der FMA & Red Bull. Selbstständig in Wien.\
 Tech adressatengerecht erklären liegt mir am Herzen.\
-Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es meistens nicht tun.
+Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen und es meistens nicht tun.
 
 [LinkedIn](https://linkedin.com/in/julianstreitberger) · [streitberger.at](https://streitberger.at) · [Intro to Python](https://github.com/jstreitberger03/introduction-to-python) · [Call buchen](https://www.cal.eu/jstreitberger/erstgesprach)
 
