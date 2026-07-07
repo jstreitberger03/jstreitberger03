@@ -1,6 +1,6 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=435&lines=Julian+Streitberger;Turning+coffee+into+structured+data;Python+%26+TypeScript+Engineer)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=435&lines=Julian+Streitberger;Daten+%2B+Code+%3D+Produkte;Python+%26+TypeScript+Engineer)
 
-Turning coffee into structured data and automations.
+Software Engineer mit Leidenschaft für Daten, APIs und sauberen Code.
 
 [LinkedIn](https://linkedin.com/in/julianstreitberger) · [julianstreitberger.dev](https://julianstreitberger.dev)
 
