@@ -22,5 +22,3 @@ Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es mei
 
 ![](https://github-readme-stats.vercel.app/api?username=jstreitberger03&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=000&icon_color=000)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jstreitberger03&layout=compact&hide_border=true&bg_color=00000000&text_color=000)
-
-![](https://raw.githubusercontent.com/jstreitberger03/jstreitberger03/output/github-contribution-grid-snake.svg)
