@@ -5,7 +5,8 @@
 <p align="center">
   Dr. in Mathematik. Data Scientist bei der FMA & Red Bull. Selbstständig in Wien.<br/>
   Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen und es meistens nicht tun.<br/>
-  Tech adressatengerecht erklären liegt mir am Herzen.
+  Tech adressatengerecht erklären liegt mir am Herzen.<br/>
+  <a href="https://europe2031.ai/de/">Working on a sovereign EU</a>.
 </p>
 
 <p align="center">
