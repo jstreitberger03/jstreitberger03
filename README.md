@@ -1,6 +1,7 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=435&lines=Julian+Streitberger;Daten+%2B+Code+%3D+Produkte;Python+%26+TypeScript+Engineer)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=435&lines=Julian+Streitberger;Turning+coffee+into+structured+data;Python+%26+TypeScript+Engineer)
 
-Software Engineer mit Leidenschaft für Daten, APIs und sauberen Code.
+Promovierter Mathematiker. Data Scientist bei Red Bull & der FMA. Selbstständig in Wien.\
+Ich arbeite da, wo Regulierung, Daten und Code aufeinandertreffen — und es meistens nicht tun.
 
 [LinkedIn](https://linkedin.com/in/julianstreitberger) · [streitberger.at](https://streitberger.at)
 
@@ -21,3 +22,5 @@ Software Engineer mit Leidenschaft für Daten, APIs und sauberen Code.
 
 ![](https://github-readme-stats.vercel.app/api?username=jstreitberger03&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=000&icon_color=000)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jstreitberger03&layout=compact&hide_border=true&bg_color=00000000&text_color=000)
+
+![](https://raw.githubusercontent.com/jstreitberger03/jstreitberger03/output/github-contribution-grid-snake.svg)
