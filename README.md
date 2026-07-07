@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Julian%20Streitberger&fontSize=36&fontAlignY=50)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=000000&width=600&lines=Julian+Streitberger;Turning+coffee+into+structured+data)
 
 Dr. in Mathematik. Data Scientist bei der FMA & Red Bull. Selbstständig in Wien.\
 Tech adressatengerecht erklären liegt mir am Herzen.\
