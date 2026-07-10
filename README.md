@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go)
 
 **Frameworks**
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
